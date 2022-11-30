@@ -9,8 +9,8 @@
 
 ```python
 Name = "Krishnendu Nandy"
-Interests = ["Coding", "Problem Solving","Web Dev", "Photography", "Exploring various OS :)"]
-Languages = ["C", "C++", "Python", "HTML", "CSS"]
+Interests = ["Coding" ,"Ethical Hacking", "Problem Solving", "Web Dev" ,"Photography" ,"Exploring various OS:"]
+Languages = ["Java", "Python", "C", "C++", "HTML", "CSS", "Javascript"]
 OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ubuntu Unity"]
 ```
 <!-- <div align=center>
@@ -19,7 +19,7 @@ OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ub
 </div> !-->
 
   
-### Wanna listen to what I am listening to ? :)  
+### Wanna listen what I am listening to ? :)  
 
 <div align=center> 
 
@@ -29,7 +29,7 @@ OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ub
 
 ## 💻 My workspace
 
-![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=cyan&color=0078d6)
 ![](https://img.shields.io/badge/Intel-i3_11th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 
@@ -80,7 +80,7 @@ OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ub
 </div>
   
 
-[![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=pain-killer786&theme=react-dark)](https://github.com/pain-killer786)
+[![Krish's github activity graph](https://activity-graph.herokuapp.com/graph?username=pain-killer786&theme=react-dark)](https://github.com/pain-killer786)
 
 
 
