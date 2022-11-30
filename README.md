@@ -1,6 +1,6 @@
 # Hola a todos ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-![ ](https://komarev.com/ghpvc/?username=AdityaSeth777&color=blue)
+![ ](https://komarev.com/ghpvc/?username=pain-killer786&color=blue)
 </a>
 <a href="https://github.com/pain-killer786?tab=followers"><img src="https://img.shields.io/github/followers/pain-killer786?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href ="https://metrics.lecoq.io/insights/pain-killer786"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
