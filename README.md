@@ -2,20 +2,20 @@
 
 ![ ](https://komarev.com/ghpvc/?username=AdityaSeth777&color=blue)
 </a>
-<a href="https://github.com/AdityaSeth777?tab=followers"><img src="https://img.shields.io/github/followers/AdityaSeth777?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href ="https://metrics.lecoq.io/AdityaSeth777?template=classic&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&repositories=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&config.timezone=Asia%2FCalcutta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/>
+<a href="https://github.com/pain-killer786?tab=followers"><img src="https://img.shields.io/github/followers/pain-killer786?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href ="https://metrics.lecoq.io/insights/pain-killer786"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
 
 </p>
 
 ```python
-Name = "Aditya Seth"
-Interests = ["Coding", "Cryptography", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
-Languages = ["C", "C++", "Python", "HTML", "CSS", "Kotlin"]
-OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ubuntu Unity", "Manjaro", "Arch"]
+Name = "Krishnendu Nandy"
+Interests = ["Coding", "Problem Solving","Web Dev", "Photography", "Exploring various OS :)"]
+Languages = ["C", "C++", "Python", "HTML", "CSS"]
+OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ubuntu Unity"]
 ```
 <!-- <div align=center>
   
-[![coding speed x 1000](/images/187495.gif)](https://github.com/AdityaSeth777)
+[![coding speed x 1000](/images/187495.gif)](https://github.com/pain-killer786)
 </div> !-->
 
   
@@ -29,10 +29,10 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 
 ## 💻 My workspace
 
-![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
-![](https://img.shields.io/badge/Intel-i5_12th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
+![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/Intel-i3_11th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
-![](https://img.shields.io/badge/NVIDIA-GEFORCE_GTX_1650-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
+![](https://img.shields.io/badge/Intel UHD Graphics-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
 
 ### Tech Stack:
 <div align=center>  
@@ -40,14 +40,11 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 <img src="https://img.icons8.com/color/48/000000/c-programming.png">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-<!-- <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> !-->
+<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-creative-cloud--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 
 
@@ -57,10 +54,10 @@ OS = ["Zorin", "Ubuntu", "BlackArch", "Nitrux", "Windows", "Elementary OS", "Kal
 ### Connect with me:
 <div align=center>
 
-<a href="https://www.linkedin.com/in/aditya-seth-270833233" alt="Aditya Seth | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
-<a href="https://instagram.com/codificador_anonimo?igshid=YmMyMTA2M2Y=" alt="codificador_anonimo | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
-<a href="mailto:adityaseth.cse@gmail.com" alt="Aditya Seth | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png">
-<a href="https://discordapp.com/users/Aditya Seth#4753" alt="Aditya Seth | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
+<a href="https://www.linkedin.com/in/krishnendu-nandy-4658b1240" alt="Krishnendu Nandy | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://www.instagram.com/merikh7865/" alt="merikh7865 | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
+<a href="mailto:krishnendunandy43@gmail.com" alt="Krishnendu Nandy | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png">
+<a href="https://discordapp.com/users/painkiller786#1785" alt="Krishnendu Nandy | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
 <a href="https://www.hackerrank.com/adityaseth_cse" alt="Aditya Seth | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png">
 <a href="https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d" alt="Aditya Seth | Google Cloud Skills"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png">
 <a href="https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user" alt="Aditya Seth | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
