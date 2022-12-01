@@ -1,4 +1,4 @@
-# Hola a todos ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# こんにちは、みんな ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 ![ ](https://komarev.com/ghpvc/?username=pain-killer786&color=blue)
 </a>
