@@ -10,7 +10,7 @@
 ```python
 Name = "Krishnendu Nandy"
 Interests = ["Coding" ,"Ethical Hacking", "Problem Solving", "Web Dev" ,"Photography" ,"Exploring various OS:"]
-Languages = ["Java", "Python", "C", "C++", "HTML", "CSS", "Javascript"]
+Languages = ["Python", "C", "C++", "HTML", "CSS", "Javascript"]
 OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ubuntu Unity"]
 ```
 <!-- <div align=center>
