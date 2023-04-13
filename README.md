@@ -9,9 +9,9 @@
 
 ```python
 Name = "Krishnendu Nandy"
-Interests = ["Coding" ,"Ethical Hacking", "Problem Solving", "Web Dev" ,"Photography" ,"Exploring various OS:"]
-Languages = ["Python", "C", "C++", "HTML", "CSS", "Javascript"]
-OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ubuntu Unity"]
+Interests = ["Coding", "Problem Solving", "Web Dev" ,"Photography" ,"]
+Languages = ["Python","Java", "C", "C++", "HTML", "CSS", "Javascript","Flutter"]
+OS = ["Ubuntu","Windows","Kali Linux"]
 ```
 <!-- <div align=center>
   
