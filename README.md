@@ -23,7 +23,7 @@ OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ub
 
 <div align=center> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313pqnlqcud6qasaaaiofo743raq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313pqnlqcud6qasaaaiofo743raq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313pqnlqcud6qasaaaiofo743raq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=313pqnlqcud6qasaaaiofo743raq&redirect=true)
   
 </div>
 
@@ -33,6 +33,11 @@ OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ub
 ![](https://img.shields.io/badge/Intel-i3_11th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 
+## 💻 My explored OS's :)
+
+![](https://img.shields.io/badge/Windows-10,_8.1,_7,_XP-informational?style=flat&logo=Windows&logoColor=white&color=0083DC)
+![](https://img.shields.io/badge/Ubuntu-22.10_LTS-informational?style=flat&logo=Ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/Kali_Linux-2022.1-informational?style=flat&logo=KaliLinux&logoColor=white&color=517E98)
 
 ### Tech Stack:
 <div align=center>  
@@ -40,6 +45,7 @@ OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ub
 <img src="https://img.icons8.com/color/48/000000/c-programming.png">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
@@ -80,10 +86,16 @@ OS = ["Zorin", "Ubuntu", "Nitrux", "Windows", "Elementary OS", "Kali Linux", "Ub
 </div>
   
 
-[![Krish's github activity graph](https://activity-graph.herokuapp.com/graph?username=pain-killer786&theme=react-dark)](https://github.com/pain-killer786)
+  
+[![@painkiller786's Holopin board](https://holopin.me/painkiller786)](https://holopin.io/@painkiller786)
+  
+
+[![pain-killer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pain-killer786&theme=react-dark)](https://github.com/pain-killer786)
 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pain-killer786&theme=juicyfresh)](https://github.com/pain-killer786/github-profile-trophy)
+  
+  
   
   
