@@ -18,6 +18,9 @@ OS = ["Ubuntu","Windows","Kali Linux"]
 [![coding speed x 1000](/images/187495.gif)](https://github.com/pain-killer786)
 </div> !-->
 
+# 💫 About Me:
+🔭 I’m currently working on learning JAVA<br>👯 I’m looking to collaborate on a Bus Tracking App project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Electronics and Communication Engineering<br>💬 Ask me about 'C', 'Java'<br>⚡ Fun fact is that I like to learn new things 
+
   
 ### Wanna listen what I am listening to ? :)  
 
@@ -69,7 +72,7 @@ OS = ["Ubuntu","Windows","Kali Linux"]
 <a href="https://auth.geeksforgeeks.org/user/krishnende2mw/" alt="Aditya Seth | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
   </div>
 
-### Statistics :  
+### Github Stats :  
 <div align="center">
    <a href="https://github.com/pain-killer786">
    <img src="https://github-readme-stats.vercel.app/api?username=pain-killer786&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
@@ -91,11 +94,24 @@ OS = ["Ubuntu","Windows","Kali Linux"]
   
 
 [![pain-killer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pain-killer786&theme=react-dark)](https://github.com/pain-killer786)
+  
 
 
-
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=pain-killer786&theme=juicyfresh)](https://github.com/pain-killer786/github-profile-trophy)
   
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pain-killer786&limit=5&theme=radical&combine_all_yearly_contributions=true) 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+ 
   
   
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+
   
+ 
