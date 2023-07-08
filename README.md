@@ -1,4 +1,7 @@
-# こんにちは、みんな ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<h1 align="center">Hi 👋, I'm Krishnendu Nandy</h1>
+<h3 align="center">A Passionate engineer interested in creating IOT projects</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ![ ](https://komarev.com/ghpvc/?username=pain-killer786&color=blue)
 </a>
@@ -9,9 +12,9 @@
 
 ```python
 Name = "Krishnendu Nandy"
-Interests = ["Coding", "Problem Solving", "Web Dev" ,"Photography" ,"]
-Languages = ["Python","Java", "C", "C++", "HTML", "CSS", "Javascript","Flutter"]
-OS = ["Ubuntu","Windows","Kali Linux"]
+Interests = ["Coding", "Problem-Solving", "Web Dev", "Photography"]
+Languages = ["Python", "C", "C++", "HTML", "CSS", "Javascript", "Flutter"]
+OS = ["Ubuntu", "Windows", "Kali Linux"]
 ```
 <!-- <div align=center>
   
@@ -19,10 +22,10 @@ OS = ["Ubuntu","Windows","Kali Linux"]
 </div> !-->
 
 # 💫 About Me:
-🔭 I’m currently working on learning JAVA<br>👯 I’m looking to collaborate on a Bus Tracking App project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Electronics and Communication Engineering<br>💬 Ask me about 'C', 'Java'<br>⚡ Fun fact is that I like to learn new things 
+🔭 I’m currently working on learning C++<br>👯 I’m looking to collaborate on a Bus Tracking App project<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently pursuing Electronics and Communication Engineering<br>💬 Ask me about 'C', 'C++'<br>⚡ Fun fact is that I like to learn new things 
 
   
-### Wanna listen what I am listening to ? :)  
+### Wanna listen what I am listening to? :)  
 
 <div align=center> 
 
@@ -32,8 +35,8 @@ OS = ["Ubuntu","Windows","Kali Linux"]
 
 ## 💻 My workspace
 
-![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=cyan&color=0078d6)
-![](https://img.shields.io/badge/Intel-i3_11th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
+![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/Intel-i3_11th_Gen-informational?style=flat&logoColor=white&color=0071C5)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 
 ## 💻 My explored OS's :)
@@ -44,6 +47,7 @@ OS = ["Ubuntu","Windows","Kali Linux"]
 
 ### Tech Stack:
 <div align=center>  
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
@@ -87,13 +91,8 @@ OS = ["Ubuntu","Windows","Kali Linux"]
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pain-killer786&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="pain-killer786" /></p>
 
 </div>
-  
 
-  
-[![@painkiller786's Holopin board](https://holopin.me/painkiller786)](https://holopin.io/@painkiller786)
-  
-
-[![pain-killer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pain-killer786&theme=react-dark)](https://github.com/pain-killer786)
+[![pain-killer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pain-killer786&theme=react-dark)](https://github.com/pain-killer786/github-readme-activity-graph)
   
 
 
@@ -105,13 +104,3 @@ OS = ["Ubuntu","Windows","Kali Linux"]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
- 
-  
-  
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-
-  
- 
