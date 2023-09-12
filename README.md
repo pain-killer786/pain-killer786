@@ -41,7 +41,7 @@ OS = ["Ubuntu", "Windows", "Kali Linux"]
 
 ## 💻 My explored OS's :)
 
-![](https://img.shields.io/badge/Windows-10,_8.1,_7,_XP-informational?style=flat&logo=Windows&logoColor=white&color=0083DC)
+![](https://img.shields.io/badge/Windows-11,_10,_8.1,_7,_XP-informational?style=flat&logo=Windows&logoColor=white&color=0083DC)
 ![](https://img.shields.io/badge/Ubuntu-22.10_LTS-informational?style=flat&logo=Ubuntu&logoColor=white&color=E95420)
 ![](https://img.shields.io/badge/Kali_Linux-2022.1-informational?style=flat&logo=KaliLinux&logoColor=white&color=517E98)
 
