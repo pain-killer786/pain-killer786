@@ -12,8 +12,8 @@
 
 ```python
 Name = "Krishnendu Nandy"
-Interests = ["Coding", "Problem-Solving", "Web Dev", "Photography"]
-Languages = ["Python", "C", "C++", "HTML", "CSS", "Javascript", "Flutter"]
+Interests = ["Coding", "Problem-Solving", "Photography"]
+Languages = ["Python", "C", "C++"]
 OS = ["Ubuntu", "Windows", "Kali Linux"]
 ```
 <!-- <div align=center>
@@ -25,13 +25,6 @@ OS = ["Ubuntu", "Windows", "Kali Linux"]
 🔭 I’m currently working on learning C++<br>👯 I’m looking to collaborate on a Bus Tracking App project<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently pursuing Electronics and Communication Engineering<br>💬 Ask me about 'C', 'C++'<br>⚡ Fun fact is that I like to learn new things 
 
   
-### Wanna listen what I am listening to? :)  
-
-<div align=center> 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313pqnlqcud6qasaaaiofo743raq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=313pqnlqcud6qasaaaiofo743raq&redirect=true)
-  
-</div>
 
 ## 💻 My workspace
 
