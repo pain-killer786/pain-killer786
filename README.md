@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnendu Nandy</h1>
-<h3 align="center">A Passionate engineer interested in creating IOT projects</h3>
+<h3 align="center">A Passionate engineer interested in diving deep into the field of Cyber Security</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -11,10 +11,10 @@
 </p>
 
 ```python
-Name = "Krishnendu Nandy"
-Interests = ["Coding", "Problem-Solving", "Photography"]
-Languages = ["Python", "C", "C++"]
-OS = ["Ubuntu", "Windows", "Kali Linux"]
+Name = "White Knight"
+Interests = ["Coding", "Problem-Solving", "White Hat Hacking", "Penetration Testing"]
+Languages = ["C++", "Python", "Bash"]
+OS = ["Ubuntu", "Windows [10/11]", "Kali Linux"]
 ```
 <!-- <div align=center>
   
@@ -22,7 +22,7 @@ OS = ["Ubuntu", "Windows", "Kali Linux"]
 </div> !-->
 
 # 💫 About Me:
-🔭 I’m currently working on learning C++<br>👯 I’m looking to collaborate on a Bus Tracking App project<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently pursuing Electronics and Communication Engineering<br>💬 Ask me about 'C', 'C++'<br>⚡ Fun fact is that I like to learn new things 
+🔭 I’m currently working on learning C++<br>🤝 I’m looking for help with deeper dimensions of Hacking<br>🌱 I’m currently pursuing Electronics and Communication Engineering<br>💬 Ask me about 'Network Security'<br>⚡ Fun fact is that I like to learn new things 
 
   
 
@@ -40,18 +40,14 @@ OS = ["Ubuntu", "Windows", "Kali Linux"]
 
 ### Tech Stack:
 <div align=center>  
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
-
-<img src="https://img.icons8.com/color/48/000000/c-programming.png">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img src="https://img.icons8.com/?size=50&id=muqMY2QA2VIG&format=png&color=DDDDDD">
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 
 
 </div>
@@ -61,12 +57,8 @@ OS = ["Ubuntu", "Windows", "Kali Linux"]
 <div align=center>
 
 <a href="https://www.linkedin.com/in/krishnendu-nandy-4658b1240" alt="Krishnendu Nandy | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
-<a href="https://www.instagram.com/merikh7865/" alt="merikh7865 | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
-<a href="mailto:krishnendunandy43@gmail.com" alt="Krishnendu Nandy | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png">
-<a href="https://discordapp.com/users/painkiller786#1785" alt="Krishnendu Nandy | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
-<a href="https://www.hackerrank.com/krishnendunandy1" alt="Krishnendu Nandy | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png">
-<a href="https://www.quora.com/profile/%C4%B6%C5%95%C3%AC%C5%A1h-Nen-%C4%90%C5%AF" alt="Krishnendu Nandy | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
-<a href="https://auth.geeksforgeeks.org/user/krishnende2mw/" alt="Aditya Seth | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+<a href="mailto:krishnendunandy43@gmail.com" alt="Krishnendu Nandy | Gmail"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000"></a> &nbsp;
+<a href="mailto:krishnendunandy2002@outlook.com" alt= "Krishnendu Nandy | Outlook"><img src= "https://img.icons8.com/?size=48&id=117562&format=png&color=000000"></a> &nbsp;
   </div>
 
 ### Github Stats :  
