@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Krishnendu Nandy</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Garage!+✨;Hi+There!+👋;I'm+Krishnendu+Nandy!;+A+Creative+Developer+💻" />
+</div>
+
+
 <h3 align="center">A Passionate engineer interested in diving deep into the field of Cyber Security</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
