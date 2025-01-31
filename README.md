@@ -122,6 +122,9 @@ OS = ["Ubuntu", "Windows [10/11]", "Kali Linux"]
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pain-killer786&limit=5&theme=radical&combine_all_yearly_contributions=true) 
 
+### RoadmapSH Stats
+[![roadmap.sh](https://roadmap.sh/card/wide/64ebcc20b128dce3cb80ec70?variant=dark)](https://roadmap.sh)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
