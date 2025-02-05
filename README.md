@@ -87,12 +87,12 @@ OS = ["Ubuntu", "Windows [10/11]", "Kali Linux"]
   <picture>
     <!-- For dark theme -->
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=pain-killer786&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=pain-killer786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <!-- For light theme -->
     <img
-      src="https://github-readme-stats.vercel.app/api?username=pain-killer786&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=pain-killer786&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
       alt="GitHub Stats"
     />
   </picture>
@@ -117,16 +117,13 @@ OS = ["Ubuntu", "Windows [10/11]", "Kali Linux"]
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pain-killer786&theme=juicyfresh)](https://github.com/pain-killer786/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pain-killer786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/pain-killer786/github-profile-trophy)
   
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pain-killer786&limit=5&theme=radical&combine_all_yearly_contributions=true) 
-
-### RoadmapSH Stats
-[![roadmap.sh](https://roadmap.sh/card/wide/64ebcc20b128dce3cb80ec70?variant=dark)](https://roadmap.sh)
+![](https://github-contributor-stats.vercel.app/api?username=pain-killer786&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Snake Animation -->
 <div align="center">
